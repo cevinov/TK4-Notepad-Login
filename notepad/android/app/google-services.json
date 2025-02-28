@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533631649708",
+    "project_id": "tk4-notepad-869f5",
+    "storage_bucket": "tk4-notepad-869f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533631649708:android:7b9fd92fa81d57ec2d9c09",
+        "android_client_info": {
+          "package_name": "com.vinovin.notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533631649708-osuke7r9lte9nlalcmpbghpl043riqg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinovin.notepad",
+            "certificate_hash": "b2f76aec5b79709d272e923561ff5617f25b72f1"
+          }
+        },
+        {
+          "client_id": "533631649708-5gf7oqq5cgut3hcmav4kqpk4chdo4hq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwfw08DdZMjKeP7wpbr2ag8NDdUVzKsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533631649708-5gf7oqq5cgut3hcmav4kqpk4chdo4hq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
